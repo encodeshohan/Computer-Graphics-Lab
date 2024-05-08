@@ -1,0 +1,7 @@
+1. Create a rain effect
+2. Create a scenerio where there will be ground, river and it will rain. The rain will ooverflow the
+   river thay will cause flood.
+3. Create an animation for volcanic eruption showing lava coming out and flowing down a river
+4. Create a zoom in and out animation using scaling.
+5. Create an animation that will show a story in a texual form based on a still image. Your animation will 
+   start with a still image and texts will animated on the screen to describe the image.
